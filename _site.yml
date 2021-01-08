@@ -8,7 +8,7 @@ navbar:
       href: https://www.mailman.columbia.edu/research/columbia-center-childrens-environmental-health
     - text: "Contact"
       href: 
-
+      
 output:
   html_document:
     theme: cerulean
