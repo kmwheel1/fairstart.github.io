@@ -1,9 +1,8 @@
 ---
-title: <img src="logo.png">
+title: Fair Start Recruitment
 ---
+<img src="logo.png">
 
-## Columbia Center for Children's Environmental Health 
-### Fair Start Recruitment
 
 <img src="image_1.png" style="width:100%">
 <img src="image_2.png" style="width:100%">
