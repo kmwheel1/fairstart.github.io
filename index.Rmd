@@ -11,9 +11,9 @@ title: Fair Start Recruitment
 <img src="image_3.png" style="width:100%">
 <img src="image_4.png" style="width:100%">
 
-NOTE: Remote visits will be modified to to reduce the spread of COVID-19
+[NOTE: Remote visits will be modified to to reduce the spread of COVID-19]{color="red"}
 
-NOTA: Visitas remotas serán modificadas para evitar la propagación del COVID-19 
+NOTA: Visitas remotas serán modificadas para evitar la propagación del COVID-19
 
 <img src="image_5.png" style="width:100%">
 <img src="image_6.png" style="width:100%">

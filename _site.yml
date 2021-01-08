@@ -7,7 +7,7 @@ navbar:
     - text: "CCCEH"
       href: https://www.mailman.columbia.edu/research/columbia-center-childrens-environmental-health
     - text: "Contact"
-      href: 
+      href: contact.html
       
 output:
   html_document:
