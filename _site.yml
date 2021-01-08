@@ -1,0 +1,15 @@
+name: "Fair Start Recruitment"
+output_dir: "."
+navbar:
+  title: "Home"
+  
+  right:
+    - text: "CCCEH"
+      href: https://www.mailman.columbia.edu/research/columbia-center-childrens-environmental-health
+    - text: "Español"
+      href: 
+
+output:
+  html_document:
+    theme: cerulean
+    
