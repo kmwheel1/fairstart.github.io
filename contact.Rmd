@@ -4,7 +4,7 @@ title: "Contact"
 
 ### Fair Start Staff
 
-<img src="images/staff_1.png" style="width:75%">
-<img src="images/staff_2.png" style="width:75%">
-<img src="images/staff_4.png" style="width:75%">
-<img src="images/staff_5.png" style="width:75%">
+<img src="images/staff_1.png" style="width:100%">
+<img src="images/staff_2.png" style="width:100%">
+<img src="images/staff_4.png" style="width:100%">
+<img src="images/staff_5.png" style="width:100%">
